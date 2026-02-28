@@ -3,3 +3,4 @@ duckduckgo-search
 openai
 anthropic
 google-generativeai
+streamlit
